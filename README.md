@@ -1,4 +1,4 @@
-# [ECS289G-Project] Constructing Compelling Narratives: A MultiModal Framework for Story Generation
+# [ECS 289G-Project] Constructing Compelling Narratives: A Multimodal Framework for Story Generation
 
 ![Architecture](architecture.png)
 
