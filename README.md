@@ -1,5 +1,7 @@
 # [ECS289G-Project] Constructing Compelling Narratives: A MultiModal Framework for Story Generation
 
+![Architecture](architecture.png)
+
 ## How to run?
 
 After cloning the repository
