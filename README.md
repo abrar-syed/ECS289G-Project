@@ -49,7 +49,7 @@ Which will pull:
 - backend/story_generator/downloaded (transformers)
 - client/public/unsplash25k (styled images)
 
-### Running the framework during developemnt
+### Running the framework during development
 
 Client: 
 ```
